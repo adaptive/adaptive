@@ -1,6 +1,8 @@
+[![@adaptive's Holopin board](https://holopin.me/adaptive)](https://holopin.io/@adaptive)
+
 🔒 `0x8D5B6B7FBD93D888` 📫 @threema-ch `TMTPMXKD` 🌍 __HOP__ `07Z-02Z` __TZ__ `UTC`
 
-🕵🏼 I am helping SMEs and corporate move to the hybrid-edge, geo-agnostic, affordable, and resilient.
+🕵🏼 Helping businesses move to the hybrid-edge, geo-agnostic, affordable, and resilient. Service, Web amd Edge workers.
 
 <!--
 **adaptive/adaptive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
