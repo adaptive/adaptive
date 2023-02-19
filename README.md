@@ -2,7 +2,7 @@
 
 🔒 `0x8D5B6B7FBD93D888` 📫 @threema-ch `TMTPMXKD` 🌍 __HOP__ `07Z-02Z` __TZ__ `UTC`
 
-🕵🏼 Helping businesses move to the hybrid-edge, geo-agnostic, affordable, and resilient. Service, Web amd Edge workers.
+🕵🏼 Aiding businesses in their move towards a hybrid-edge, geo-agnostic, affordable, and resilient environment. Facilitating this transition for web and edge workers, ensuring a smooth and seamless migration process.
 
 <!--
 **adaptive/adaptive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
