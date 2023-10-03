@@ -2,8 +2,10 @@
 
 🔒 `0x8D5B6B7FBD93D888` 📫 @threema-ch `TMTPMXKD` 🌍 __HOP__ `07Z-02Z` __TZ__ `UTC`
 
-🕵🏼 Aiding businesses in their move towards a hybrid-edge, geo-agnostic, affordable, and resilient environment. Facilitating this transition for web and edge workers, ensuring a smooth and seamless migration process.
-
+🕵🏼 Aiding businesses move towards a hybrid-edge, geo-agnostic, affordable, and resilient environment. Facilitating this transition for web and edge workers, ensuring a smooth and seamless migration process.
+☁️ Vector databases: Pinecone and Cloudflare Vectorize
+🏆 Zaraz Certified Developer
+🌐 [adaptive.link](https://adaptive.link) [adaptive.help](https://adaptive.help)
 <!--
 **adaptive/adaptive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
